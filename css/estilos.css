@@ -250,7 +250,7 @@ header label{
 	}
 }
 /*----------------footer-----------------------*/
-/*footer .contenedor{
+footer .contenedor{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
@@ -276,4 +276,4 @@ header label{
 	footer .contenedor{
 		justify-content: space-between;
 	}
-}*/
+}
