@@ -1,4 +1,4 @@
-/*@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
 
 *{
 	margin: 0;
@@ -125,7 +125,7 @@ header label{
 /*--------------------Banner----------------------*/
 
 
-#banner{
+/*#banner{
 	margin-top: 50px;
 	position: relative;
 }
@@ -167,9 +167,9 @@ header label{
 	#banner a{
 		margin-top: 25px;
 	}
-}
+}*/
 /*tablet*/
-@media(min-width: 768px){
+/*@media(min-width: 768px){
 	#banner{
 		height: 300px;
 		overflow: hidden;
@@ -183,14 +183,14 @@ header label{
 	#banner img{
 		margin-top: -200px;
 	}
-}
+}*/
 /*----------------Bienvenidos-----------------*/
 
-.bienvenidos{
+/*.bienvenidos{*/
 /*	display: flex;
 	justify-content: center;
 	flex-wrap:wrap;*/
-	text-align: center;
+/*	text-align: center;
 	margin: 30px 0;
 }
 .bienvenidos h2{
@@ -198,10 +198,10 @@ header label{
 }
 .bienvenidos p{
 	color: #555;
-}
+}*/
 /*---------------blog-----------------*/
 
-#blog h3,h4{
+/*#blog h3,h4{
 	text-align: center;
 	color: #333;
 }
@@ -216,9 +216,9 @@ header label{
 #blog img{
 	width: 100%;
 	max-width: 280px;
-}
+}*/
 /*---------------info-----------------*/
-#info{
+/*#info{
 	text-align: center;
 	background: #333;
 	color: #fff;
@@ -248,9 +248,9 @@ header label{
 	.info-pet{
 		width: auto;
 	}
-}
+}*/
 /*----------------footer-----------------------*/
-footer .contenedor{
+/*footer .contenedor{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
@@ -276,5 +276,4 @@ footer .contenedor{
 	footer .contenedor{
 		justify-content: space-between;
 	}
-}
-*/
+}*/
