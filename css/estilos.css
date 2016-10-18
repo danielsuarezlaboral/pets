@@ -125,7 +125,7 @@ header label{
 /*--------------------Banner----------------------*/
 
 
-/*#banner{
+#banner{
 	margin-top: 50px;
 	position: relative;
 }
@@ -167,7 +167,7 @@ header label{
 	#banner a{
 		margin-top: 25px;
 	}
-}*/
+}
 /*tablet*/
 /*@media(min-width: 768px){
 	#banner{

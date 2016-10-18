@@ -1,6 +1,6 @@
-// var menuBar=document.getElementById('menu-bar');
-// var menu=document.getElementById('menu');
+var menuBar=document.getElementById('menu-bar');
+var menu=document.getElementById('menu');
 
-// menuBar.addEventListener('click',function(){
-// 	menu.classList.toggle('mostrar');
-// });
+menuBar.addEventListener('click',function(){
+	menu.classList.toggle('mostrar');
+});
