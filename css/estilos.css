@@ -218,7 +218,7 @@ header label{
 	max-width: 280px;
 }
 /*---------------info-----------------*/
-/*#info{
+#info{
 	text-align: center;
 	background: #333;
 	color: #fff;
@@ -248,7 +248,7 @@ header label{
 	.info-pet{
 		width: auto;
 	}
-}*/
+}
 /*----------------footer-----------------------*/
 /*footer .contenedor{
 	display: flex;
